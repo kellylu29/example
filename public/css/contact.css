@@ -1,0 +1,59 @@
+/* line 11, /Users/Kelly/Desktop/scss/about.scss */
+body {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  font-family: Helvetica, sans-serif;
+  margin: 0 auto;
+}
+
+/* line 78, /Users/Kelly/Desktop/scss/about.scss */
+.body-wrapper {
+  padding: 10px 40px 40px 20px;
+  height: 700px;
+  min-height: 700px;
+  margin-bottom: 20px;
+  text-align: center;
+
+}
+
+.contact-head {
+  margin-top: 140px;
+}
+
+.contact-head h1 {
+  font-weight: bold;
+}
+
+.email-form {
+  width: 600px;
+  height: 400px;
+  margin: 0 auto
+}
+
+.email-form input {
+  display: block;
+  width: 400px;
+  margin: 0 auto;
+  padding-top: 0;
+  padding-left: 0;
+  outline: none;
+}
+
+textarea{
+  width: 400px;
+  outline: none;
+}
+
+button {
+  background-color: transparent;
+  border: 1px solid #000;
+  border-radius: 2px;
+  padding: 5px;
+}
+
+button:hover {
+  color: #C72F00;
+}
+
+/*# sourceMappingURL=../css/about.map */
