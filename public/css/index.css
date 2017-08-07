@@ -1,3 +1,11 @@
 h1{
-  text-align: center;
+
+  text-shadow: 2px 2px #FF0000;
+  font-size: 80px;
+}
+.body-wrapper{
+
+height :750px;
+
+
 }
