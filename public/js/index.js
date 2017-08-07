@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 
 function openDialog(visualforcePage){
 
@@ -25,3 +27,4 @@ function openDialog(visualforcePage){
 }
 openDialog("SubmitQuoteDocument?Id="+opportunityId);// JS here
 
+>>>>>>> 59e63adf89cb7d2e379f08b36ba462220bb7afa2
