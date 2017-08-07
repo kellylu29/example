@@ -3,13 +3,13 @@ body {
   margin: 0;
   height: 100%;
   width: 100%;
-  font-family: Futura-CondensedExtraBold;
+  font-family: Futura-Condensed;
   margin: 0 auto;
 }
 
 /* line 20, /Users/Kelly/Desktop/scss/about.scss */
 .navbar-default {
-  background-color: #171600;
+  background-color: white;
   padding: 25px 30px 30px 0px;
   letter-spacing: 0.125em;
 }
@@ -34,7 +34,7 @@ body {
 
 /* line 44, /Users/Kelly/Desktop/scss/about.scss */
 .navbar-default .navbar-nav li a {
-  color: #EDF7F5;
+  color: black;
   font-size: 18px;
   margin-left: 40px;
 }
