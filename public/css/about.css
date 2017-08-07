@@ -6,7 +6,6 @@ body {
   font-family: Futura-Condensed;
   margin: 0 auto;
 }
-<<<<<<< HEAD
 
 /* line 20, /Users/Kelly/Desktop/scss/about.scss */
 .navbar-default {
@@ -47,11 +46,9 @@ body {
   color: #C72F00;
 }
 
-=======
->>>>>>> b892184c155e347505b848187df97ceca7240dee
 /* line 57, /Users/Kelly/Desktop/scss/about.scss */
 .jumbotron {
-  background-image: url("https://pixabay.com/get/e834b70e2ef5013ed1534705fb094295ea7eebd71bac104495f2c17ea4edb4b1/philadelphia-1161610_1920.jpg");
+  background-image: url("../images/phil.jpg");
   background-size: cover;
   width: 100%;
   height: 800px;
@@ -62,6 +59,11 @@ body {
   text-align: center;
   color: #EDF7F5;
   padding-top: 250px;
+}
+
+.biglogo {
+  height: 30%;
+  width: 30%;
 }
 
 /* line 69, /Users/Kelly/Desktop/scss/about.scss */
