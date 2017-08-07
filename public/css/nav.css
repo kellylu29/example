@@ -3,7 +3,7 @@ body {
 }
 
 .body-wrapper {
-  
+
 }
 
 /* line 20, /Users/Kelly/Desktop/scss/about.scss */
@@ -64,9 +64,6 @@ body {
   position: absolute;
   /*margin: 0;*/
   width: 100%;
-  height: 50px;
-  margin-top: -50px;
-  bottom: 0
 }
 
 /* line 103, /Users/Kelly/Desktop/scss/about.scss */
