@@ -17,8 +17,17 @@
 
 /* line 31, /Users/Kelly/Desktop/scss/about.scss */
 .navbar-default .navbar-brand {
-  /*font-family: 'Montserrat', sans-serif;*/
-  /*font-size: 80px;*/
+
+  font-family: monospace;
+  font-size: 80px;
+  padding-left: 40px;
+  color: #C72F00;
+}
+
+.navbar-default .navbar-brand img{
+  height: 60px;
+  width: 60px;
+  margin-top: -30%;
   height: 50px;
   padding: 0px 0px 0px 40px;
   box-sizing: border-box;
