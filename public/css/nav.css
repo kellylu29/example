@@ -3,7 +3,7 @@ body {
 }
 
 .body-wrapper {
-  
+
 }
 
 /* line 20, /Users/Kelly/Desktop/scss/about.scss */
@@ -58,45 +58,4 @@ body {
 /* line 50, /Users/Kelly/Desktop/scss/about.scss */
 .navbar-default .navbar-nav li a:hover {
   color: #C72F00;
-}
-
-.footer {
-  position: absolute;
-  /*margin: 0;*/
-  width: 100%;
-  height: 50px;
-  margin-top: -50px;
-  bottom: 0
-}
-
-/* line 103, /Users/Kelly/Desktop/scss/about.scss */
-.footer-links {
-  clear: left;
-  list-style-type: none;
-  width: 100%;
-  height: 90px;
-  margin: 0;
-  padding-top: 35px;
-  text-align: center;
-  background-color: #C72F00;
-  letter-spacing: 0.125em;
-}
-
-/* line 114, /Users/Kelly/Desktop/scss/about.scss */
-.footer-links li {
-  display: inline-block;
-  margin-left: 20px;
-}
-
-/* line 118, /Users/Kelly/Desktop/scss/about.scss */
-.footer-links li a {
-  color: #fff;
-  font-size: 16px;
-  padding: 15px;
-}
-
-/* line 124, /Users/Kelly/Desktop/scss/about.scss */
-.footer-links li a:hover {
-  color: #171600;
-  text-decoration: none;
 }
