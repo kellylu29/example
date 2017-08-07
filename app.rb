@@ -1,5 +1,6 @@
 require 'sinatra'
 require 'sendgrid-ruby'
+require 'pry'
 
 get '/' do
 
@@ -19,4 +20,11 @@ end
 get '/contact' do
 
   erb :contact
+end
+
+post "/submit" do
+  binding.pry
+  @params = params
+  
+
 end
