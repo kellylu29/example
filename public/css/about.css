@@ -5,11 +5,9 @@ body {
   width: 100%;
   font-family: Futura-Condensed;
   margin: 0 auto;
-  padding-top: 80px;
+  padding-top: 100px;
 }
 
-<<<<<<< HEAD
-=======
 /* line 20, /Users/Kelly/Desktop/scss/about.scss */
 .navbar-default {
   background-color: white;
@@ -49,7 +47,6 @@ body {
   color: #C72F00;
 }
 
->>>>>>> master
 /* line 57, /Users/Kelly/Desktop/scss/about.scss */
 .jumbotron {
   background-image: url("../images/phil.jpg");
