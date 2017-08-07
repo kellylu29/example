@@ -1,3 +1,4 @@
+
 function openDialog(visualforcePage){
 
     var j$ = jQuery.noConflict();
@@ -23,3 +24,4 @@ function openDialog(visualforcePage){
 
 }
 openDialog("SubmitQuoteDocument?Id="+opportunityId);// JS here
+
